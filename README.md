@@ -1,7 +1,8 @@
 # podcastr-next-nlw
-Programa feito na NLW5 que focou na criação de uma página Web, que disponibiliza para os usuários </br>
-vários Podcastrs, que podem ser transmitidos e controlados atráves de um sistema </br>
+Programa feito na NLW5 que focou na criação de uma página Web, que disponibiliza para os usuários
+vários Podcastrs, que podem ser transmitidos e controlados atráves de um sistema
 que se encontra no lado direito na página.</br>
+</br>
 Para criação do Servidor, utilizamos o server.json, que simula a utilização de um servidor para que o projeto possa ser facilmente utilizado </br>
 com um proposito real e não apenas de estudo.</br>
 O projeto foi feito com typescript e utilizando Next JS, com node 14.15.5.</br>
